@@ -31,9 +31,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<img align="left" alt="Shorouq's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shorouq-Elhawary&show_icons=true&theme=radical" />
-
----
-
 
